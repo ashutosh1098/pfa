@@ -17,7 +17,6 @@ def factor(n):
         if n%i==0:
             temp.append(i)
         return temp
-    for i in range (len(temp))
-        print(temp[i])
+    print(*temp)
 
 
