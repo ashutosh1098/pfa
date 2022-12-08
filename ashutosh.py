@@ -17,4 +17,5 @@ def factor(n):
         if n%i==0:
             temp.append(i)
     return temp
+print(temp)
 
